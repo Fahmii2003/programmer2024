@@ -2,6 +2,8 @@
 - css
   * tailwind
   * bootstrap
+  * foundation
+  * bulma
 - javascript
   * react
   * vue
