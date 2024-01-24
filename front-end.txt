@@ -1,0 +1,8 @@
+- belajar https
+- belajar html
+- belajar css
+- belajar javascript
+- belajar git % github
+- framework css
+- framework javascript
+- npm
