@@ -1,3 +1,7 @@
 - html
 - css
+  * tailwind
+  * bootstrap
 - javascript
+  * react
+  * vue
