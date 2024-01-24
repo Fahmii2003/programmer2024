@@ -1,7 +1,10 @@
 - html
 - css
-  * tailwind
+  * foundation
   * bootstrap
+  * skeleton
+  * pure css
 - javascript
   * react
   * vue
+  * angular
